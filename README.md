@@ -1,4 +1,4 @@
-## Hi there![logo](https://github.com/shahid2005a/shahid2005a/blob/main/shahid2005a.png)
+## Hi there![logo](https://github.com/shahid2005a/shahid2005a/blob/main/Profile/Afridi.png)
 <h1 align="center">Hi 👋, I'm Shahid Afridi</h1>
 <h3 align="center">A Cyber Security  Engineer from India</h3>
 
