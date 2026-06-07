@@ -1,6 +1,9 @@
 ## Hi there![logo](https://github.com/shahid2005a/shahid2005a/blob/main/Profile/Afridi.png)
+![logo](https://github.com/shahid2005a/shahid2005a/blob/main/Profile/Shahid.png)
+
+
 <h1 align="center">Hi 👋, I'm Shahid Afridi</h1>
-<h3 align="center">A Cyber Security  Engineer from India</h3>
+<h3 align="center">A Cyber Security  Engineer from India Bihar</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
